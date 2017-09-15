@@ -1,0 +1,6 @@
+C:\Users\ajrot\OneDrive\Documents\Visual Studio 2017\Projects\HangManGame\HangManGame\bin\Debug\HangManGame.exe
+C:\Users\ajrot\OneDrive\Documents\Visual Studio 2017\Projects\HangManGame\HangManGame\bin\Debug\HangManGame.pdb
+C:\Users\ajrot\OneDrive\Documents\Visual Studio 2017\Projects\HangManGame\HangManGame\obj\Debug\HangManGame.csprojResolveAssemblyReference.cache
+C:\Users\ajrot\OneDrive\Documents\Visual Studio 2017\Projects\HangManGame\HangManGame\obj\Debug\HangManGame.csproj.CoreCompileInputs.cache
+C:\Users\ajrot\OneDrive\Documents\Visual Studio 2017\Projects\HangManGame\HangManGame\obj\Debug\HangManGame.exe
+C:\Users\ajrot\OneDrive\Documents\Visual Studio 2017\Projects\HangManGame\HangManGame\obj\Debug\HangManGame.pdb
